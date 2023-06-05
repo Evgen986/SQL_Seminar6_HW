@@ -48,4 +48,5 @@ return result;
 end //
 delimiter ;
 
+-- проверка
 select even_numbers();
